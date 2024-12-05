@@ -7,7 +7,7 @@ In this Data, we'll walk you through:
 🔍 Identifying Key Patterns and Trends
 📈 Visualization of Data Insights
 
-hashtag#SkillCraftTechnology
-hashtag#Intership
-hashtag#DataScienceIntern
-hashtag#Task2
+#SkillCraftTechnology
+#Intership
+#DataScienceIntern
+#Task2
