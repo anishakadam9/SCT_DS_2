@@ -2,7 +2,7 @@
 
 In this Data, we'll walk you through:
 
-🧹 Effective Data Cleaning Techniques
+🧹 Effective Data Cleaning Techniques 
 📊 Exploratory Data Analysis (EDA) with Python
 🔍 Identifying Key Patterns and Trends
 📈 Visualization of Data Insights
